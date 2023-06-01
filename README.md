@@ -1,0 +1,2 @@
+# Verification_MiscLearningMaterials
+Verification learning materials from miscellaneous sources
